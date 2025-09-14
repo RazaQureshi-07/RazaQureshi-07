@@ -5,8 +5,6 @@
 
 ## About Me :
 
- ## About Me :
-
 <h5>
 ✨ I am an aspiring MERN Stack developer with a strong passion for building modern, user-friendly web applications. Skilled in JavaScript and React, I also work with tools like Bootstrap, Tailwind CSS, and Material UI. I enjoy learning new technologies, creating projects to sharpen my skills, and aim to grow further by contributing to real-world applications and internships. I have also recently completed a web development course under the guidance of my instructor, where we worked on multiple projects and learned modern web technologies. You can explore the course material and projects from my sir’s GitHub repository here:  
 </h5>
