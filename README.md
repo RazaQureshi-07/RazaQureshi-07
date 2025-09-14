@@ -21,7 +21,7 @@
 ## 🌐 Connect With Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/raza-qureshi-87a23a374/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:rq098123@gmail.com" target="_blank">
+<a href="mailto:rq019283@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
